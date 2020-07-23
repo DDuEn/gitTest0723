@@ -2,6 +2,13 @@
 body{
     background-color: aqua;
 }
+
 h1{
     font-family: monospace;
+}
+
+#divv{
+    text-align: center;
+    color: blueviolet;
+    margin: 5px;
 }
